@@ -1,4 +1,3 @@
-Project README
 This repository contains code, datasets, a PowerPoint presentation (PPT), and a paper related to the implementation of machine learning techniques for diabetes prediction.
 
 Code Overview
